@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm Priyanka Chaudhari</h1>
-<p>Welcome! I’m a developer passionate about learning, building, and sharing. Here you’ll find my coding experiments, ideas, and growth as I explore the world of technology. </p>
+<p>Welcome! I’m a passionate developer, eager to learn, build, and share. Here you’ll find my coding experiments, ideas, and growth as I explore the world of technology.</p>
 </div>
 
 <!---</div>
