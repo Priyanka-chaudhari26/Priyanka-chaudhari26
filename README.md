@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi 👋, I'm Priyanka Chaudhari</h1>
 <p>Welcome! I’m a developer passionate about learning, building, and sharing. Here you’ll find my coding experiments, ideas, and growth as I explore the world of technology. </p>
-</div>
+
 
 
 <!---</div>
@@ -73,6 +73,8 @@ I am a full-stack developer passionate about building software that makes a diff
 ## 📫 Connect with me
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/priyanka-chaudhari-95ba94212/)
+
+</div>
 
 <!--
 **Priyanka-chaudhari26/Priyanka-chaudhari26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
