@@ -33,6 +33,8 @@ I am a full-stack developer passionate about building software that makes a diff
 
 ## 🛠️ Technologies and Tools
 
+I enjoy exploring a variety of technologies that help me build efficient, accessible, and impactful software. Here’s a look at the tools I work with:
+
 <div align="center">
   <!-- Frontend -->
   
