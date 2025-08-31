@@ -1,24 +1,8 @@
 <div align="center">
 <h1>Hi 👋, I'm Priyanka Chaudhari</h1>
-<h3>Welcome to my GitHub profile! </h3>
+<p>Welcome! I’m a developer passionate about learning, building, and sharing. Here you’ll find my coding experiments, ideas, and growth as I explore the world of technology. </p>
 </div>
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">&nbsp;<br/><br/>
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<br/><br/>
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
-</div>
+
 
 <!---</div>
 <div align="center">
@@ -47,6 +31,27 @@ I am a full-stack developer passionate about building software that makes a diff
   - NextU Recruitment Platform – building a full-stack recruitment application for employers and job seekers.
 - 👯 Looking to Collaborate On: Projects that combine web development, AI, and meaningful real-world applications, especially those that improve user experience.
 - 💬 Ask Me About: Full-stack development, AI/LLM integration, databases, career guidance systems, and accessibility in tech.
+
+## 🛠️ Technologies and Tools
+
+<div>
+  <!-- Frontend -->
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="python">&nbsp;<br/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">&nbsp;<br/>
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-003B57?logo=mysql&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">&nbsp;
+</div>
 
 ## 🚀 Featured Projects
 
